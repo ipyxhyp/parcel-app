@@ -15,3 +15,4 @@ Example of input : <BR/>
 <BR/>
 Once per minute user gets info of parcels weights grouped by postal codes. <BR/>
 Validation info corrects the user in case of wrong input format.
+To stop the applciation run is enough to type "quit" without quotes and press enter.
