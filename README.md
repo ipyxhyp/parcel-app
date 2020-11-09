@@ -1,6 +1,6 @@
 # parcel-app
 
-Spring boot service for pushing Parcels objects via user input CLI into local apllication storage and writing once per minute grouped weights by postal codes to the user output console.
+Spring boot service for pushing Parcels objects via user input CLI into local application storage and writing once per minute grouped weights by postal codes to the user output console.
 How to build > Clone project sources , clean and build using gradle tool.<BR/>
 How to run > After gradle build task completed, the target jar created in the destination path ./build/libs/parcel-app-0.0.1-SNAPSHOT.jar <BR/>
 In order to run the app - just execute following commands in CLI: CD ./build/libs  java -jar parcel-app-0.0.1-SNAPSHOT.jar <BR/>
